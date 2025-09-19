@@ -1,5 +1,5 @@
 ---
-{"tags":["math","수학","직문수","공리"],"create":"2025-09-16 17:07:09","dg-publish":true,"permalink":"/1-para/1-project///lecture-2/","dgPassFrontmatter":true}
+{"tags":["math","수학","직문수","공리"],"create":"2025-09-16 17:07:09","dg-publish":true,"dg-category:":"수학","permalink":"/1-para/1-project///lecture-2/","dgPassFrontmatter":true}
 ---
 
 ```ad-focus
